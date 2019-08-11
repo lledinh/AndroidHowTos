@@ -1,1 +1,1 @@
-include ':app', ':daggerhowto'
+include ':app', ':daggerhowto', ':splashscreenhowto'
