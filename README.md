@@ -1,2 +1,2 @@
 # AndroidHowTos
-A compilation of how-to
+A compilation of how-to on Android
